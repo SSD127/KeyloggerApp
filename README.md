@@ -1,6 +1,4 @@
-# Keylogger Uygulaması - Eğitim Amaçlı
-
-⚠️ **ÖNEMLİ UYARI**: Bu uygulama sadece eğitim ve araştırma amaçlıdır. Başkasının bilgisayarında izinsiz kullanmak yasadışıdır ve ciddi yasal sonuçlar doğurur.
+# Keylogger Uygulaması - 
 
 ## Özellikler
 
