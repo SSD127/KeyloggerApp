@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="SmtpServer" value="smtp.gmail.com" />
+    <add key="SmtpPort" value="587" />
+    <add key="SenderEmail" value="your-email@gmail.com" />
+    <add key="SenderPassword" value="your-app-password" />
+    <add key="ReceiverEmail" value="your-email@gmail.com" />
+  </appSettings>
+</configuration>
+
+
